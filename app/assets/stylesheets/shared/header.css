@@ -1,5 +1,5 @@
 .top-page-header{
-  background-color: red;
+  background-color: #32cd32;
   height: 15vh;
   align-items: center;
 }
@@ -20,7 +20,16 @@
 }
 .header-list{
   text-decoration: none;
-  color: black;
+  color:white;
   margin-right: 50px;
   margin-top: 20px;
+  font-size: 20px;
+}
+.title-list{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  margin-right: 50px;
+  margin-top: 20px;
+  font-size: 20px;
 }

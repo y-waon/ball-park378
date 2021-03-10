@@ -25,3 +25,13 @@
   padding: 10px 50px 10px 50px;
   margin-bottom: 35px;
 }
+.login-flash-message{
+  text-align: center;
+  color: red;
+}
+
+.input-tweet{
+  padding: 10px 50px 80px 50px;
+  margin-top: 20px;
+  text-align: center;
+}
